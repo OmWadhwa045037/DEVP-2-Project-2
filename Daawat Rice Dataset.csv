@@ -1,0 +1,701 @@
+Country,Product,Units Sold,Revenue,Cost,Profit,Date
+India,Biryani Basmati,1725,8625,3450,5175,11-01-2019
+India,Biryani Basmati,2152,10760,4304,6456,12-01-2019
+India,Biryani Basmati,2349,11745,4698,7047,09-01-2019
+India,Biryani Basmati,1228,6140,2456,3684,10-01-2019
+India,Biryani Basmati,1389,6945,2778,4167,10-01-2019
+India,Biryani Basmati,1802,9010,3604,5406,12-01-2019
+India,Biryani Basmati,2299,11495,4598,6897,10-01-2019
+India,Biryani Basmati,1404,7020,2808,4212,11-01-2019
+India,Biryani Basmati,2470,12350,4940,7410,09-01-2019
+India,Biryani Basmati,1743,8715,3486,5229,10-01-2019
+India,Biryani Basmati,2222,11110,4444,6666,11-01-2019
+India,Traditional Basmati,345,345,69,276,10-01-2019
+India,Traditional Basmati,2851,2851,570,2281,10-01-2019
+India,Traditional Basmati,1283,1283,257,1026,09-01-2019
+India,Traditional Basmati,1611,1611,322,1289,12-01-2019
+India,Super Basmati,1778,8890,3912,4978,12-01-2019
+India,Super Basmati,1228,6140,2702,3438,10-01-2019
+India,Super Basmati,2761,13805,6074,7731,09-01-2019
+India,Super Basmati,1743,8715,3835,4880,10-01-2019
+India,Pulav Basmati,908,3632,1362,2270,12-01-2019
+India,Pulav Basmati,2851,11404,4277,7128,10-01-2019
+India,Pulav Basmati,2299,9196,3449,5748,10-01-2019
+India,Pulav Basmati,1560,6240,2340,3900,11-01-2019
+India,Pulav Basmati,2416,9664,3624,6040,09-01-2019
+India,Rozana Gold,1389,4167,1736,2431,10-01-2019
+India,Rozana Gold,2436,7308,3045,4263,12-01-2019
+India,Rozana Gold,2935,8805,3669,5136,11-01-2019
+India,Rozana Gold,623,1869,779,1090,09-01-2019
+India,Rozana Gold,269,807,336,471,10-01-2019
+India,Rozana Gold,2954,8862,3693,5170,11-01-2019
+India,Brown Rice,345,2070,949,1121,10-01-2019
+India,Brown Rice,2092,12552,5753,6799,11-01-2019
+India,Brown Rice,2646,15876,7277,8600,09-01-2019
+India,Brown Rice,1916,11496,5269,6227,12-01-2019
+India,Brown Rice,269,1614,740,874,10-01-2019
+United Kingdom,Biryani Basmati,549,2745,1098,1647,09-01-2019
+United Kingdom,Biryani Basmati,1785,8925,3570,5355,11-01-2019
+United Kingdom,Biryani Basmati,2261,11305,4522,6783,12-01-2019
+United Kingdom,Biryani Basmati,704,3520,1408,2112,10-01-2019
+United Kingdom,Biryani Basmati,2136,10680,4272,6408,12-01-2019
+United Kingdom,Biryani Basmati,1757,8785,3514,5271,10-01-2019
+United Kingdom,Biryani Basmati,1031,5155,2062,3093,09-01-2019
+United Kingdom,Biryani Basmati,2167,10835,4334,6501,10-01-2019
+United Kingdom,Biryani Basmati,1198,5990,2396,3594,10-01-2019
+United Kingdom,Biryani Basmati,1922,9610,3844,5766,11-01-2019
+United Kingdom,Traditional Basmati,1403,1403,281,1122,10-01-2019
+United Kingdom,Traditional Basmati,1757,1757,351,1406,10-01-2019
+United Kingdom,Traditional Basmati,322,322,64,258,09-01-2019
+United Kingdom,Traditional Basmati,1857,1857,371,1486,11-01-2019
+United Kingdom,Traditional Basmati,1186,1186,237,949,12-01-2019
+United Kingdom,Super Basmati,321,1605,706,899,11-01-2019
+United Kingdom,Super Basmati,1403,7015,3087,3928,10-01-2019
+United Kingdom,Super Basmati,2076,10380,4567,5813,10-01-2019
+United Kingdom,Super Basmati,306,1530,673,857,12-01-2019
+United Kingdom,Pulav Basmati,2145,8580,3218,5363,11-01-2019
+United Kingdom,Pulav Basmati,1482,5928,2223,3705,12-01-2019
+United Kingdom,Pulav Basmati,1198,4792,1797,2995,10-01-2019
+United Kingdom,Pulav Basmati,1023,4092,1535,2558,09-01-2019
+United Kingdom,Rozana Gold,1527,4581,1909,2672,09-01-2019
+United Kingdom,Rozana Gold,1221,3663,1526,2137,10-01-2019
+United Kingdom,Rozana Gold,2234,6702,2793,3910,09-01-2019
+United Kingdom,Rozana Gold,2682,8046,3353,4694,11-01-2019
+United Kingdom,Rozana Gold,2167,6501,2709,3792,10-01-2019
+United Kingdom,Rozana Gold,1281,3843,1601,2242,12-01-2019
+United Kingdom,Brown Rice,704,4224,1936,2288,10-01-2019
+United Kingdom,Brown Rice,1033,6198,2841,3357,12-01-2019
+United Kingdom,Brown Rice,1221,7326,3358,3968,10-01-2019
+United Kingdom,Brown Rice,2076,12456,5709,6747,10-01-2019
+United Kingdom,Brown Rice,386,2316,1062,1255,11-01-2019
+United Kingdom,Brown Rice,2805,16830,7714,9116,09-01-2019
+Philippines,Biryani Basmati,766,3830,1532,2298,10-01-2019
+Philippines,Biryani Basmati,809,4045,1618,2427,10-01-2019
+Philippines,Biryani Basmati,1945,9725,3890,5835,10-01-2019
+Philippines,Biryani Basmati,2116,10580,4232,6348,12-01-2019
+Philippines,Biryani Basmati,1123,5615,2246,3369,09-01-2019
+Philippines,Biryani Basmati,2125,10625,4250,6375,12-01-2019
+Philippines,Biryani Basmati,2409,12045,4818,7227,09-01-2019
+Philippines,Biryani Basmati,2146,10730,4292,6438,11-01-2019
+Philippines,Biryani Basmati,1775,8875,3550,5325,11-01-2019
+Philippines,Biryani Basmati,2992,14960,5984,8976,10-01-2019
+Philippines,Traditional Basmati,1797,1797,359,1438,09-01-2019
+Philippines,Traditional Basmati,1159,1159,232,927,10-01-2019
+Philippines,Traditional Basmati,2500,2500,500,2000,11-01-2019
+Philippines,Traditional Basmati,334,334,67,267,12-01-2019
+Philippines,Traditional Basmati,2992,2992,598,2394,10-01-2019
+Philippines,Super Basmati,2966,14830,6525,8305,10-01-2019
+Philippines,Super Basmati,1159,5795,2550,3245,10-01-2019
+Philippines,Super Basmati,994,4970,2187,2783,09-01-2019
+Philippines,Super Basmati,970,4850,2134,2716,11-01-2019
+Philippines,Super Basmati,1770,8850,3894,4956,12-01-2019
+Philippines,Pulav Basmati,766,3064,1149,1915,10-01-2019
+Philippines,Pulav Basmati,214,856,321,535,10-01-2019
+Philippines,Pulav Basmati,1016,4064,1524,2540,11-01-2019
+Philippines,Pulav Basmati,887,3548,1331,2218,12-01-2019
+Philippines,Pulav Basmati,442,1768,663,1105,09-01-2019
+Philippines,Rozana Gold,214,642,268,375,10-01-2019
+Philippines,Rozana Gold,1945,5835,2431,3404,10-01-2019
+Philippines,Rozana Gold,2297,6891,2871,4020,11-01-2019
+Philippines,Rozana Gold,2215,6645,2769,3876,09-01-2019
+Philippines,Rozana Gold,1870,5610,2338,3273,12-01-2019
+Philippines,Brown Rice,2966,17796,8157,9640,10-01-2019
+Philippines,Brown Rice,809,4854,2225,2629,10-01-2019
+Philippines,Brown Rice,588,3528,1617,1911,12-01-2019
+Philippines,Brown Rice,660,3960,1815,2145,09-01-2019
+Philippines,Brown Rice,2536,15216,6974,8242,11-01-2019
+Malaysia,Biryani Basmati,788,3940,1576,2364,09-01-2019
+Malaysia,Biryani Basmati,2145,10725,4290,6435,10-01-2019
+Malaysia,Biryani Basmati,1760,8800,3520,5280,09-01-2019
+Malaysia,Biryani Basmati,1514,7570,3028,4542,10-01-2019
+Malaysia,Biryani Basmati,2763,13815,5526,8289,11-01-2019
+Malaysia,Biryani Basmati,1946,9730,3892,5838,12-01-2019
+Malaysia,Biryani Basmati,367,1835,734,1101,10-01-2019
+Malaysia,Biryani Basmati,1715,8575,3430,5145,10-01-2019
+Malaysia,Biryani Basmati,380,1900,760,1140,12-01-2019
+Malaysia,Biryani Basmati,2151,10755,4302,6453,11-01-2019
+Malaysia,Traditional Basmati,1660,1660,332,1328,11-01-2019
+Malaysia,Traditional Basmati,720,720,144,576,09-01-2019
+Malaysia,Traditional Basmati,1100,1100,220,880,12-01-2019
+Malaysia,Traditional Basmati,1715,1715,343,1372,10-01-2019
+Malaysia,Traditional Basmati,1727,1727,345,1382,10-01-2019
+Malaysia,Super Basmati,1375,6875,3025,3850,12-01-2019
+Malaysia,Super Basmati,947,4735,2083,2652,09-01-2019
+Malaysia,Super Basmati,344,1720,757,963,10-01-2019
+Malaysia,Super Basmati,1727,8635,3799,4836,10-01-2019
+Malaysia,Super Basmati,1870,9350,4114,5236,11-01-2019
+Malaysia,Pulav Basmati,494,1976,741,1235,10-01-2019
+Malaysia,Pulav Basmati,1834,7336,2751,4585,09-01-2019
+Malaysia,Pulav Basmati,367,1468,551,918,10-01-2019
+Malaysia,Pulav Basmati,2706,10824,4059,6765,11-01-2019
+Malaysia,Pulav Basmati,2821,11284,4232,7053,12-01-2019
+Malaysia,Rozana Gold,494,1482,618,865,10-01-2019
+Malaysia,Rozana Gold,1940,5820,2425,3395,12-01-2019
+Malaysia,Rozana Gold,1514,4542,1893,2650,10-01-2019
+Malaysia,Rozana Gold,1123,3369,1404,1965,11-01-2019
+Malaysia,Rozana Gold,1005,3015,1256,1759,09-01-2019
+Malaysia,Brown Rice,2145,12870,5899,6971,10-01-2019
+Malaysia,Brown Rice,544,3264,1496,1768,12-01-2019
+Malaysia,Brown Rice,655,3930,1801,2129,09-01-2019
+Malaysia,Brown Rice,344,2064,946,1118,10-01-2019
+Malaysia,Brown Rice,2605,15630,7164,8466,11-01-2019
+United States,Biryani Basmati,912,4560,1824,2736,11-01-2019
+United States,Biryani Basmati,1925,9625,3850,5775,12-01-2019
+United States,Biryani Basmati,2013,10065,4026,6039,12-01-2019
+United States,Biryani Basmati,671,3355,1342,2013,10-01-2019
+United States,Biryani Basmati,727,3635,1454,2181,10-01-2019
+United States,Biryani Basmati,2931,14655,5862,8793,09-01-2019
+United States,Biryani Basmati,386,1930,772,1158,10-01-2019
+United States,Biryani Basmati,380,1900,760,1140,09-01-2019
+United States,Biryani Basmati,267,1335,534,801,10-01-2019
+United States,Biryani Basmati,2007,10035,4014,6021,11-01-2019
+United States,Traditional Basmati,2498,2498,500,1998,09-01-2019
+United States,Traditional Basmati,663,663,133,530,10-01-2019
+United States,Traditional Basmati,1804,1804,361,1443,11-01-2019
+United States,Traditional Basmati,2996,2996,599,2397,10-01-2019
+United States,Super Basmati,1989,9945,4376,5569,09-01-2019
+United States,Super Basmati,671,3355,1476,1879,10-01-2019
+United States,Super Basmati,727,3635,1599,2036,10-01-2019
+United States,Super Basmati,2548,12740,5606,7134,11-01-2019
+United States,Super Basmati,2015,10075,4433,5642,12-01-2019
+United States,Pulav Basmati,330,1320,495,825,09-01-2019
+United States,Pulav Basmati,263,1052,395,658,11-01-2019
+United States,Pulav Basmati,386,1544,579,965,10-01-2019
+United States,Pulav Basmati,2996,11984,4494,7490,10-01-2019
+United States,Rozana Gold,266,798,333,466,12-01-2019
+United States,Rozana Gold,349,1047,436,611,09-01-2019
+United States,Rozana Gold,1265,3795,1581,2214,11-01-2019
+United States,Rozana Gold,808,2424,1010,1414,12-01-2019
+United States,Rozana Gold,2294,6882,2868,4015,10-01-2019
+United States,Rozana Gold,267,801,334,467,10-01-2019
+United States,Brown Rice,663,3978,1823,2155,10-01-2019
+United States,Brown Rice,736,4416,2024,2392,09-01-2019
+United States,Brown Rice,1421,8526,3908,4618,12-01-2019
+United States,Brown Rice,2294,13764,6309,7456,10-01-2019
+United States,Brown Rice,2574,15444,7079,8366,11-01-2019
+United States,Brown Rice,2438,14628,6705,7924,12-01-2019
+India,Biryani Basmati,292,1460,584,876,02-01-2020
+India,Biryani Basmati,2518,12590,5036,7554,06-01-2020
+India,Biryani Basmati,1817,9085,3634,5451,12-01-2020
+India,Biryani Basmati,2363,11815,4726,7089,02-01-2020
+India,Biryani Basmati,1295,6475,2590,3885,10-01-2020
+India,Biryani Basmati,1916,9580,3832,5748,12-01-2020
+India,Biryani Basmati,2852,14260,5704,8556,12-01-2020
+India,Biryani Basmati,2729,13645,5458,8187,12-01-2020
+India,Biryani Basmati,1774,8870,3548,5322,03-01-2020
+India,Biryani Basmati,2009,10045,4018,6027,10-01-2020
+India,Biryani Basmati,4251,21255,8502,12753,01-01-2020
+India,Biryani Basmati,218,1090,436,654,09-01-2020
+India,Biryani Basmati,2074,10370,4148,6222,09-01-2020
+India,Biryani Basmati,2431,12155,4862,7293,12-01-2020
+India,Biryani Basmati,1702,8510,3404,5106,05-01-2020
+India,Biryani Basmati,257,1285,514,771,05-01-2020
+India,Biryani Basmati,1094,5470,2188,3282,06-01-2020
+India,Biryani Basmati,873,4365,1746,2619,01-01-2020
+India,Biryani Basmati,2105,10525,4210,6315,07-01-2020
+India,Biryani Basmati,4026,20130,8052,12078,07-01-2020
+India,Biryani Basmati,2394,11970,4788,7182,08-01-2020
+India,Biryani Basmati,1366,6830,2732,4098,11-01-2020
+India,Biryani Basmati,2632,13160,5264,7896,06-01-2020
+India,Biryani Basmati,1583,7915,3166,4749,06-01-2020
+India,Biryani Basmati,1565,7825,3130,4695,10-01-2020
+India,Biryani Basmati,1249,6245,2498,3747,10-01-2020
+India,Biryani Basmati,2428,12140,4856,7284,03-01-2020
+India,Biryani Basmati,700,3500,1400,2100,11-01-2020
+India,Biryani Basmati,1614,8070,3228,4842,04-01-2020
+India,Biryani Basmati,2559,12795,5118,7677,08-01-2020
+India,Biryani Basmati,723,3615,1446,2169,04-01-2020
+India,Traditional Basmati,2518,2518,504,2014,06-01-2020
+India,Traditional Basmati,2666,2666,533,2133,07-01-2020
+India,Traditional Basmati,1830,1830,366,1464,08-01-2020
+India,Traditional Basmati,1967,1967,393,1574,03-01-2020
+India,Traditional Basmati,488,488,98,390,02-01-2020
+India,Traditional Basmati,708,708,142,566,06-01-2020
+India,Traditional Basmati,3803,3803,761,3042,04-01-2020
+India,Traditional Basmati,2321,2321,464,1857,11-01-2020
+India,Traditional Basmati,2734,2734,547,2187,10-01-2020
+India,Traditional Basmati,1249,1249,250,999,10-01-2020
+India,Traditional Basmati,2228,2228,446,1782,01-01-2020
+India,Traditional Basmati,200,200,40,160,05-01-2020
+India,Traditional Basmati,388,388,78,310,09-01-2020
+India,Traditional Basmati,2300,2300,460,1840,12-01-2020
+India,Super Basmati,1916,9580,4215,5365,12-01-2020
+India,Super Basmati,552,2760,1214,1546,08-01-2020
+India,Super Basmati,1135,5675,2497,3178,06-01-2020
+India,Super Basmati,1645,8225,3619,4606,05-01-2020
+India,Super Basmati,1118,5590,2460,3130,11-01-2020
+India,Super Basmati,708,3540,1558,1982,06-01-2020
+India,Super Basmati,1269,6345,2792,3553,10-01-2020
+India,Super Basmati,1631,8155,3588,4567,07-01-2020
+India,Super Basmati,2240,11200,4928,6272,02-01-2020
+India,Super Basmati,3521,17605,7746,9859,04-01-2020
+India,Super Basmati,707,3535,1555,1980,09-01-2020
+India,Super Basmati,2734,13670,6015,7655,10-01-2020
+India,Super Basmati,1659,8295,3650,4645,01-01-2020
+India,Super Basmati,888,4440,1954,2486,03-01-2020
+India,Pulav Basmati,1619,6476,2429,4048,01-01-2020
+India,Pulav Basmati,1445,5780,2168,3613,09-01-2020
+India,Pulav Basmati,743,2972,1115,1858,04-01-2020
+India,Pulav Basmati,1295,5180,1943,3238,10-01-2020
+India,Pulav Basmati,2852,11408,4278,7130,12-01-2020
+India,Pulav Basmati,831,3324,1247,2078,05-01-2020
+India,Pulav Basmati,2844,11376,4266,7110,06-01-2020
+India,Pulav Basmati,1884,7536,2826,4710,08-01-2020
+India,Pulav Basmati,1094,4376,1641,2735,06-01-2020
+India,Pulav Basmati,819,3276,1229,2048,07-01-2020
+India,Pulav Basmati,1937,7748,2906,4843,02-01-2020
+India,Pulav Basmati,2689,10756,4034,6723,11-01-2020
+India,Pulav Basmati,923,3692,1385,2308,03-01-2020
+India,Pulav Basmati,1496,5984,2244,3740,10-01-2020
+India,Pulav Basmati,2300,9200,3450,5750,12-01-2020
+India,Rozana Gold,2001,6003,2501,3502,02-01-2020
+India,Rozana Gold,1817,5451,2271,3180,12-01-2020
+India,Rozana Gold,1326,3978,1658,2321,03-01-2020
+India,Rozana Gold,944,2832,1180,1652,04-01-2020
+India,Rozana Gold,2729,8187,3411,4776,12-01-2020
+India,Rozana Gold,1874,5622,2343,3280,08-01-2020
+India,Rozana Gold,2844,8532,3555,4977,06-01-2020
+India,Rozana Gold,1582,4746,1978,2769,12-01-2020
+India,Rozana Gold,3245,9735,4056,5679,01-01-2020
+India,Rozana Gold,2134,6402,2668,3735,09-01-2020
+India,Rozana Gold,2529,7587,3161,4426,11-01-2020
+India,Rozana Gold,2109,6327,2636,3691,05-01-2020
+India,Rozana Gold,1583,4749,1979,2770,06-01-2020
+India,Rozana Gold,1565,4695,1956,2739,10-01-2020
+India,Rozana Gold,1496,4488,1870,2618,10-01-2020
+India,Rozana Gold,866,2598,1083,1516,07-01-2020
+India,Brown Rice,923,5538,2538,3000,08-01-2020
+India,Brown Rice,2009,12054,5525,6529,10-01-2020
+India,Brown Rice,3851,23106,10590,12516,04-01-2020
+India,Brown Rice,2431,14586,6685,7901,12-01-2020
+India,Brown Rice,952,5712,2618,3094,02-01-2020
+India,Brown Rice,1262,7572,3471,4102,05-01-2020
+India,Brown Rice,1135,6810,3121,3689,06-01-2020
+India,Brown Rice,1582,9492,4351,5142,12-01-2020
+India,Brown Rice,598,3588,1645,1944,03-01-2020
+India,Brown Rice,3794,22764,10434,12331,07-01-2020
+India,Brown Rice,567,3402,1559,1843,09-01-2020
+India,Brown Rice,1269,7614,3490,4124,10-01-2020
+India,Brown Rice,384,2304,1056,1248,01-01-2020
+India,Brown Rice,1808,10848,4972,5876,11-01-2020
+India,Brown Rice,2632,15792,7238,8554,06-01-2020
+United Kingdom,Biryani Basmati,3945,19725,7890,11835,01-01-2020
+United Kingdom,Biryani Basmati,2296,11480,4592,6888,02-01-2020
+United Kingdom,Biryani Basmati,1030,5150,2060,3090,05-01-2020
+United Kingdom,Biryani Basmati,787,3935,1574,2361,06-01-2020
+United Kingdom,Biryani Basmati,2155,10775,4310,6465,12-01-2020
+United Kingdom,Biryani Basmati,918,4590,1836,2754,05-01-2020
+United Kingdom,Biryani Basmati,1055,5275,2110,3165,12-01-2020
+United Kingdom,Biryani Basmati,2435,12175,4870,7305,01-01-2020
+United Kingdom,Biryani Basmati,1901,9505,3802,5703,06-01-2020
+United Kingdom,Biryani Basmati,1287,6435,2574,3861,12-01-2020
+United Kingdom,Biryani Basmati,2988,14940,5976,8964,07-01-2020
+United Kingdom,Biryani Basmati,1303,6515,2606,3909,02-01-2020
+United Kingdom,Biryani Basmati,2385,11925,4770,7155,03-01-2020
+United Kingdom,Biryani Basmati,2620,13100,5240,7860,09-01-2020
+United Kingdom,Biryani Basmati,3801,19005,7602,11403,04-01-2020
+United Kingdom,Biryani Basmati,1496,7480,2992,4488,06-01-2020
+United Kingdom,Biryani Basmati,448,2240,896,1344,06-01-2020
+United Kingdom,Biryani Basmati,2101,10505,4202,6303,08-01-2020
+United Kingdom,Biryani Basmati,1535,7675,3070,4605,09-01-2020
+United Kingdom,Biryani Basmati,1227,6135,2454,3681,10-01-2020
+United Kingdom,Biryani Basmati,1324,6620,2648,3972,11-01-2020
+United Kingdom,Biryani Basmati,1954,9770,3908,5862,03-01-2020
+United Kingdom,Biryani Basmati,2532,12660,5064,7596,04-01-2020
+United Kingdom,Biryani Basmati,2426,12130,4852,7278,07-01-2020
+United Kingdom,Biryani Basmati,2441,12205,4882,7323,10-01-2020
+United Kingdom,Biryani Basmati,1594,7970,3188,4782,11-01-2020
+United Kingdom,Biryani Basmati,2696,13480,5392,8088,08-01-2020
+United Kingdom,Biryani Basmati,1393,6965,2786,4179,10-01-2020
+United Kingdom,Biryani Basmati,1731,8655,3462,5193,10-01-2020
+United Kingdom,Biryani Basmati,293,1465,586,879,12-01-2020
+United Kingdom,Traditional Basmati,1899,1899,380,1519,06-01-2020
+United Kingdom,Traditional Basmati,1376,1376,275,1101,07-01-2020
+United Kingdom,Traditional Basmati,1901,1901,380,1521,06-01-2020
+United Kingdom,Traditional Basmati,544,544,109,435,09-01-2020
+United Kingdom,Traditional Basmati,1287,1287,257,1030,12-01-2020
+United Kingdom,Traditional Basmati,1385,1385,277,1108,01-01-2020
+United Kingdom,Traditional Basmati,2342,2342,468,1874,11-01-2020
+United Kingdom,Traditional Basmati,1976,1976,395,1581,10-01-2020
+United Kingdom,Traditional Basmati,2181,2181,436,1745,10-01-2020
+United Kingdom,Traditional Basmati,2501,2501,500,2001,03-01-2020
+United Kingdom,Traditional Basmati,1562,1562,312,1250,08-01-2020
+United Kingdom,Traditional Basmati,1666,1666,333,1333,05-01-2020
+United Kingdom,Traditional Basmati,2072,2072,414,1658,12-01-2020
+United Kingdom,Traditional Basmati,1773,1773,355,1418,04-01-2020
+United Kingdom,Traditional Basmati,293,293,59,234,02-01-2020
+United Kingdom,Super Basmati,2750,13750,6050,7700,02-01-2020
+United Kingdom,Super Basmati,1899,9495,4178,5317,06-01-2020
+United Kingdom,Super Basmati,941,4705,2070,2635,11-01-2020
+United Kingdom,Super Basmati,1988,9940,4374,5566,01-01-2020
+United Kingdom,Super Basmati,2876,14380,6327,8053,09-01-2020
+United Kingdom,Super Basmati,2072,10360,4558,5802,12-01-2020
+United Kingdom,Super Basmati,853,4265,1877,2388,12-01-2020
+United Kingdom,Super Basmati,1433,7165,3153,4012,05-01-2020
+United Kingdom,Super Basmati,3422,17110,7528,9582,07-01-2020
+United Kingdom,Super Basmati,1190,5950,2618,3332,06-01-2020
+United Kingdom,Super Basmati,1393,6965,3065,3900,10-01-2020
+United Kingdom,Super Basmati,2475,12375,5445,6930,08-01-2020
+United Kingdom,Super Basmati,1731,8655,3808,4847,10-01-2020
+United Kingdom,Super Basmati,2475,12375,5445,6930,03-01-2020
+United Kingdom,Pulav Basmati,2178,8712,3267,5445,06-01-2020
+United Kingdom,Pulav Basmati,2671,10684,4007,6678,09-01-2020
+United Kingdom,Pulav Basmati,2155,8620,3233,5388,12-01-2020
+United Kingdom,Pulav Basmati,4244,16976,6366,10610,04-01-2020
+United Kingdom,Pulav Basmati,1865,7460,2798,4663,02-01-2020
+United Kingdom,Pulav Basmati,1563,6252,2345,3908,05-01-2020
+United Kingdom,Pulav Basmati,2487,9948,3731,6218,12-01-2020
+United Kingdom,Pulav Basmati,448,1792,672,1120,06-01-2020
+United Kingdom,Pulav Basmati,2181,8724,3272,5453,10-01-2020
+United Kingdom,Pulav Basmati,490,1960,735,1225,11-01-2020
+United Kingdom,Pulav Basmati,2441,9764,3662,6103,10-01-2020
+United Kingdom,Pulav Basmati,2522,10088,3783,6305,01-01-2020
+United Kingdom,Pulav Basmati,1790,7160,2685,4475,03-01-2020
+United Kingdom,Pulav Basmati,1174,4696,1761,2935,08-01-2020
+United Kingdom,Rozana Gold,2178,6534,2723,3812,06-01-2020
+United Kingdom,Rozana Gold,2151,6453,2689,3764,09-01-2020
+United Kingdom,Rozana Gold,787,2361,984,1377,06-01-2020
+United Kingdom,Rozana Gold,1744,5232,2180,3052,11-01-2020
+United Kingdom,Rozana Gold,866,2598,1083,1516,05-01-2020
+United Kingdom,Rozana Gold,2177,6531,2721,3810,10-01-2020
+United Kingdom,Rozana Gold,2487,7461,3109,4352,12-01-2020
+United Kingdom,Rozana Gold,1739,5217,2174,3043,04-01-2020
+United Kingdom,Rozana Gold,959,2877,1199,1678,02-01-2020
+United Kingdom,Rozana Gold,575,1725,719,1006,04-01-2020
+United Kingdom,Rozana Gold,381,1143,476,667,08-01-2020
+United Kingdom,Rozana Gold,1227,3681,1534,2147,10-01-2020
+United Kingdom,Rozana Gold,1734,5202,2168,3035,01-01-2020
+United Kingdom,Rozana Gold,3875,11625,4844,6781,07-01-2020
+United Kingdom,Rozana Gold,1491,4473,1864,2609,03-01-2020
+United Kingdom,Rozana Gold,293,879,366,513,12-01-2020
+United Kingdom,Brown Rice,1804,10824,4961,5863,02-01-2020
+United Kingdom,Brown Rice,639,3834,1757,2077,11-01-2020
+United Kingdom,Brown Rice,3864,23184,10626,12558,04-01-2020
+United Kingdom,Brown Rice,1055,6330,2901,3429,12-01-2020
+United Kingdom,Brown Rice,2177,13062,5987,7075,10-01-2020
+United Kingdom,Brown Rice,1579,9474,4342,5132,08-01-2020
+United Kingdom,Brown Rice,1496,8976,4114,4862,06-01-2020
+United Kingdom,Brown Rice,1659,9954,4562,5392,07-01-2020
+United Kingdom,Brown Rice,1976,11856,5434,6422,10-01-2020
+United Kingdom,Brown Rice,1967,11802,5409,6393,03-01-2020
+United Kingdom,Brown Rice,639,3834,1757,2077,07-01-2020
+United Kingdom,Brown Rice,853,5118,2346,2772,12-01-2020
+United Kingdom,Brown Rice,3998,23988,10995,12994,01-01-2020
+United Kingdom,Brown Rice,1190,7140,3273,3868,06-01-2020
+United Kingdom,Brown Rice,2826,16956,7772,9185,05-01-2020
+United Kingdom,Brown Rice,663,3978,1823,2155,09-01-2020
+Philippines,Biryani Basmati,1006,5030,2012,3018,06-01-2020
+Philippines,Biryani Basmati,367,1835,734,1101,07-01-2020
+Philippines,Biryani Basmati,1513,7565,3026,4539,12-01-2020
+Philippines,Biryani Basmati,747,3735,1494,2241,09-01-2020
+Philippines,Biryani Basmati,1728,8640,3456,5184,05-01-2020
+Philippines,Biryani Basmati,689,3445,1378,2067,06-01-2020
+Philippines,Biryani Basmati,1570,7850,3140,4710,06-01-2020
+Philippines,Biryani Basmati,1706,8530,3412,5118,12-01-2020
+Philippines,Biryani Basmati,795,3975,1590,2385,03-01-2020
+Philippines,Biryani Basmati,1415,7075,2830,4245,04-01-2020
+Philippines,Biryani Basmati,1372,6860,2744,4116,01-01-2020
+Philippines,Biryani Basmati,1743,8715,3486,5229,08-01-2020
+Philippines,Biryani Basmati,3513,17565,7026,10539,07-01-2020
+Philippines,Biryani Basmati,1259,6295,2518,3777,04-01-2020
+Philippines,Biryani Basmati,1095,5475,2190,3285,05-01-2020
+Philippines,Biryani Basmati,1366,6830,2732,4098,06-01-2020
+Philippines,Biryani Basmati,1598,7990,3196,4794,08-01-2020
+Philippines,Biryani Basmati,1934,9670,3868,5802,09-01-2020
+Philippines,Biryani Basmati,360,1800,720,1080,10-01-2020
+Philippines,Biryani Basmati,241,1205,482,723,10-01-2020
+Philippines,Biryani Basmati,1359,6795,2718,4077,11-01-2020
+Philippines,Biryani Basmati,1531,7655,3062,4593,12-01-2020
+Philippines,Biryani Basmati,807,4035,1614,2421,01-01-2020
+Philippines,Biryani Basmati,2708,13540,5416,8124,02-01-2020
+Philippines,Biryani Basmati,357,1785,714,1071,11-01-2020
+Philippines,Biryani Basmati,1013,5065,2026,3039,12-01-2020
+Philippines,Biryani Basmati,278,1390,556,834,02-01-2020
+Philippines,Biryani Basmati,1158,5790,2316,3474,03-01-2020
+Philippines,Biryani Basmati,1085,5425,2170,3255,10-01-2020
+Philippines,Biryani Basmati,1175,5875,2350,3525,10-01-2020
+Philippines,Traditional Basmati,921,921,184,737,03-01-2020
+Philippines,Traditional Basmati,1545,1545,309,1236,06-01-2020
+Philippines,Traditional Basmati,2146,2146,429,1717,09-01-2020
+Philippines,Traditional Basmati,1958,1958,392,1566,02-01-2020
+Philippines,Traditional Basmati,1706,1706,341,1365,12-01-2020
+Philippines,Traditional Basmati,1859,1859,372,1487,08-01-2020
+Philippines,Traditional Basmati,2021,2021,404,1617,10-01-2020
+Philippines,Traditional Basmati,2342,2342,468,1874,11-01-2020
+Philippines,Traditional Basmati,1460,1460,292,1168,05-01-2020
+Philippines,Traditional Basmati,645,645,129,516,07-01-2020
+Philippines,Traditional Basmati,711,711,142,569,12-01-2020
+Philippines,Traditional Basmati,766,766,153,613,01-01-2020
+Philippines,Traditional Basmati,1199,1199,240,959,04-01-2020
+Philippines,Super Basmati,4220,21100,9284,11816,04-01-2020
+Philippines,Super Basmati,1686,8430,3709,4721,07-01-2020
+Philippines,Super Basmati,259,1295,570,725,03-01-2020
+Philippines,Super Basmati,2276,11380,5007,6373,05-01-2020
+Philippines,Super Basmati,1907,9535,4195,5340,09-01-2020
+Philippines,Super Basmati,1350,6750,2970,3780,02-01-2020
+Philippines,Super Basmati,1250,6250,2750,3500,12-01-2020
+Philippines,Super Basmati,1366,6830,3005,3825,06-01-2020
+Philippines,Super Basmati,1520,7600,3344,4256,11-01-2020
+Philippines,Super Basmati,711,3555,1564,1991,12-01-2020
+Philippines,Super Basmati,2574,12870,5663,7207,08-01-2020
+Philippines,Super Basmati,472,2360,1038,1322,10-01-2020
+Philippines,Super Basmati,3165,15825,6963,8862,01-01-2020
+Philippines,Pulav Basmati,1321,5284,1982,3303,01-01-2020
+Philippines,Pulav Basmati,888,3552,1332,2220,06-01-2020
+Philippines,Pulav Basmati,1513,6052,2270,3783,12-01-2020
+Philippines,Pulav Basmati,2580,10320,3870,6450,04-01-2020
+Philippines,Pulav Basmati,689,2756,1034,1723,06-01-2020
+Philippines,Pulav Basmati,2021,8084,3032,5053,10-01-2020
+Philippines,Pulav Basmati,1116,4464,1674,2790,02-01-2020
+Philippines,Pulav Basmati,663,2652,995,1658,05-01-2020
+Philippines,Pulav Basmati,1580,6320,2370,3950,09-01-2020
+Philippines,Pulav Basmati,792,3168,1188,1980,03-01-2020
+Philippines,Pulav Basmati,2811,11244,4217,7028,07-01-2020
+Philippines,Pulav Basmati,280,1120,420,700,12-01-2020
+Philippines,Pulav Basmati,1513,6052,2270,3783,11-01-2020
+Philippines,Pulav Basmati,2767,11068,4151,6918,08-01-2020
+Philippines,Pulav Basmati,1085,4340,1628,2713,10-01-2020
+Philippines,Rozana Gold,2838,8514,3548,4967,04-01-2020
+Philippines,Rozana Gold,888,2664,1110,1554,06-01-2020
+Philippines,Rozana Gold,263,789,329,460,03-01-2020
+Philippines,Rozana Gold,986,2958,1233,1726,09-01-2020
+Philippines,Rozana Gold,2877,8631,3596,5035,10-01-2020
+Philippines,Rozana Gold,1570,4710,1963,2748,06-01-2020
+Philippines,Rozana Gold,2479,7437,3099,4338,01-01-2020
+Philippines,Rozana Gold,2338,7014,2923,4092,06-01-2020
+Philippines,Rozana Gold,422,1266,528,739,08-01-2020
+Philippines,Rozana Gold,2659,7977,3324,4653,02-01-2020
+Philippines,Rozana Gold,880,2640,1100,1540,05-01-2020
+Philippines,Rozana Gold,360,1080,450,630,10-01-2020
+Philippines,Rozana Gold,1531,4593,1914,2679,12-01-2020
+Philippines,Rozana Gold,280,840,350,490,12-01-2020
+Philippines,Rozana Gold,492,1476,615,861,07-01-2020
+Philippines,Rozana Gold,1175,3525,1469,2056,10-01-2020
+Philippines,Rozana Gold,552,1656,690,966,11-01-2020
+Philippines,Brown Rice,2161,12966,5943,7023,03-01-2020
+Philippines,Brown Rice,1006,6036,2767,3270,06-01-2020
+Philippines,Brown Rice,1545,9270,4249,5021,06-01-2020
+Philippines,Brown Rice,2877,17262,7912,9350,10-01-2020
+Philippines,Brown Rice,807,4842,2219,2623,02-01-2020
+Philippines,Brown Rice,1250,7500,3438,4063,12-01-2020
+Philippines,Brown Rice,1530,9180,4208,4973,05-01-2020
+Philippines,Brown Rice,1001,6006,2753,3253,08-01-2020
+Philippines,Brown Rice,2087,12522,5739,6783,09-01-2020
+Philippines,Brown Rice,2338,14028,6430,7599,06-01-2020
+Philippines,Brown Rice,1307,7842,3594,4248,07-01-2020
+Philippines,Brown Rice,681,4086,1873,2213,01-01-2020
+Philippines,Brown Rice,510,3060,1403,1658,04-01-2020
+Philippines,Brown Rice,241,1446,663,783,10-01-2020
+Philippines,Brown Rice,2665,15990,7329,8661,11-01-2020
+Philippines,Brown Rice,472,2832,1298,1534,10-01-2020
+Philippines,Brown Rice,1013,6078,2786,3292,12-01-2020
+Malaysia,Biryani Basmati,974,4870,1948,2922,02-01-2020
+Malaysia,Biryani Basmati,883,4415,1766,2649,08-01-2020
+Malaysia,Biryani Basmati,2472,12360,4944,7416,09-01-2020
+Malaysia,Biryani Basmati,1823,9115,3646,5469,07-01-2020
+Malaysia,Biryani Basmati,662,3310,1324,1986,06-01-2020
+Malaysia,Biryani Basmati,1084,5420,2168,3252,12-01-2020
+Malaysia,Biryani Basmati,2031,10155,4062,6093,10-01-2020
+Malaysia,Biryani Basmati,1138,5690,2276,3414,12-01-2020
+Malaysia,Biryani Basmati,2689,13445,5378,8067,10-01-2020
+Malaysia,Biryani Basmati,1607,8035,3214,4821,04-01-2020
+Malaysia,Biryani Basmati,1114,5570,2228,3342,03-01-2020
+Malaysia,Biryani Basmati,2460,12300,4920,7380,06-01-2020
+Malaysia,Biryani Basmati,2993,14965,5986,8979,09-01-2020
+Malaysia,Biryani Basmati,1362,6810,2724,4086,12-01-2020
+Malaysia,Biryani Basmati,2565,12825,5130,7695,01-01-2020
+Malaysia,Biryani Basmati,2417,12085,4834,7251,01-01-2020
+Malaysia,Biryani Basmati,1038,5190,2076,3114,06-01-2020
+Malaysia,Biryani Basmati,591,2955,1182,1773,05-01-2020
+Malaysia,Biryani Basmati,1122,5610,2244,3366,03-01-2020
+Malaysia,Biryani Basmati,1984,9920,3968,5952,08-01-2020
+Malaysia,Biryani Basmati,886,4430,1772,2658,06-01-2020
+Malaysia,Biryani Basmati,2156,10780,4312,6468,10-01-2020
+Malaysia,Biryani Basmati,905,4525,1810,2715,10-01-2020
+Malaysia,Biryani Basmati,2150,10750,4300,6450,11-01-2020
+Malaysia,Biryani Basmati,1197,5985,2394,3591,11-01-2020
+Malaysia,Biryani Basmati,1233,6165,2466,3699,12-01-2020
+Malaysia,Biryani Basmati,571,2855,1142,1713,07-01-2020
+Malaysia,Biryani Basmati,260,1300,520,780,02-01-2020
+Malaysia,Biryani Basmati,2535,12675,5070,7605,04-01-2020
+Malaysia,Biryani Basmati,2851,14255,5702,8553,05-01-2020
+Malaysia,Traditional Basmati,2470,2470,494,1976,06-01-2020
+Malaysia,Traditional Basmati,958,958,192,766,08-01-2020
+Malaysia,Traditional Basmati,2214,2214,443,1771,03-01-2020
+Malaysia,Traditional Basmati,690,690,138,552,11-01-2020
+Malaysia,Traditional Basmati,2031,2031,406,1625,10-01-2020
+Malaysia,Traditional Basmati,1138,1138,228,910,12-01-2020
+Malaysia,Traditional Basmati,980,980,196,784,04-01-2020
+Malaysia,Traditional Basmati,2340,2340,468,1872,01-01-2020
+Malaysia,Traditional Basmati,2157,2157,431,1726,12-01-2020
+Malaysia,Traditional Basmati,2420,2420,484,1936,09-01-2020
+Malaysia,Traditional Basmati,2661,2661,532,2129,05-01-2020
+Malaysia,Traditional Basmati,604,604,121,483,06-01-2020
+Malaysia,Traditional Basmati,2255,2255,451,1804,07-01-2020
+Malaysia,Traditional Basmati,546,546,109,437,10-01-2020
+Malaysia,Traditional Basmati,1368,1368,274,1094,02-01-2020
+Malaysia,Super Basmati,1101,5505,2422,3083,03-01-2020
+Malaysia,Super Basmati,1865,9325,4103,5222,02-01-2020
+Malaysia,Super Basmati,1074,5370,2363,3007,04-01-2020
+Malaysia,Super Basmati,1683,8415,3703,4712,07-01-2020
+Malaysia,Super Basmati,1123,5615,2471,3144,08-01-2020
+Malaysia,Super Basmati,1679,8395,3694,4701,09-01-2020
+Malaysia,Super Basmati,2460,12300,5412,6888,06-01-2020
+Malaysia,Super Basmati,635,3175,1397,1778,12-01-2020
+Malaysia,Super Basmati,1694,8470,3727,4743,11-01-2020
+Malaysia,Super Basmati,1038,5190,2284,2906,06-01-2020
+Malaysia,Super Basmati,2039,10195,4486,5709,05-01-2020
+Malaysia,Super Basmati,2629,13145,5784,7361,01-01-2020
+Malaysia,Super Basmati,2157,10785,4745,6040,12-01-2020
+Malaysia,Super Basmati,410,2050,902,1148,10-01-2020
+Malaysia,Super Basmati,546,2730,1201,1529,10-01-2020
+Malaysia,Pulav Basmati,2470,9880,3705,6175,06-01-2020
+Malaysia,Pulav Basmati,1210,4840,1815,3025,03-01-2020
+Malaysia,Pulav Basmati,1397,5588,2096,3493,10-01-2020
+Malaysia,Pulav Basmati,2791,11164,4187,6978,11-01-2020
+Malaysia,Pulav Basmati,562,2248,843,1405,09-01-2020
+Malaysia,Pulav Basmati,727,2908,1091,1818,02-01-2020
+Malaysia,Pulav Basmati,1540,6160,2310,3850,08-01-2020
+Malaysia,Pulav Basmati,1362,5448,2043,3405,12-01-2020
+Malaysia,Pulav Basmati,521,2084,782,1303,12-01-2020
+Malaysia,Pulav Basmati,886,3544,1329,2215,06-01-2020
+Malaysia,Pulav Basmati,2156,8624,3234,5390,10-01-2020
+Malaysia,Pulav Basmati,2579,10316,3869,6448,04-01-2020
+Malaysia,Pulav Basmati,801,3204,1202,2003,07-01-2020
+Malaysia,Rozana Gold,1397,4191,1746,2445,10-01-2020
+Malaysia,Rozana Gold,662,1986,828,1159,06-01-2020
+Malaysia,Rozana Gold,1916,5748,2395,3353,04-01-2020
+Malaysia,Rozana Gold,1642,4926,2053,2874,08-01-2020
+Malaysia,Rozana Gold,2689,8067,3361,4706,10-01-2020
+Malaysia,Rozana Gold,1498,4494,1873,2622,06-01-2020
+Malaysia,Rozana Gold,2747,8241,3434,4807,02-01-2020
+Malaysia,Rozana Gold,877,2631,1096,1535,11-01-2020
+Malaysia,Rozana Gold,521,1563,651,912,12-01-2020
+Malaysia,Rozana Gold,341,1023,426,597,05-01-2020
+Malaysia,Rozana Gold,641,1923,801,1122,07-01-2020
+Malaysia,Rozana Gold,432,1296,540,756,09-01-2020
+Malaysia,Rozana Gold,554,1662,693,970,01-01-2020
+Malaysia,Rozana Gold,1233,3699,1541,2158,12-01-2020
+Malaysia,Rozana Gold,2903,8709,3629,5080,03-01-2020
+Malaysia,Brown Rice,1493,8958,4106,4852,01-01-2020
+Malaysia,Brown Rice,362,2172,996,1177,05-01-2020
+Malaysia,Brown Rice,1084,6504,2981,3523,12-01-2020
+Malaysia,Brown Rice,2861,17166,7868,9298,01-01-2020
+Malaysia,Brown Rice,1498,8988,4120,4869,06-01-2020
+Malaysia,Brown Rice,1333,7998,3666,4332,11-01-2020
+Malaysia,Brown Rice,609,3654,1675,1979,08-01-2020
+Malaysia,Brown Rice,635,3810,1746,2064,12-01-2020
+Malaysia,Brown Rice,245,1470,674,796,05-01-2020
+Malaysia,Brown Rice,2110,12660,5803,6858,09-01-2020
+Malaysia,Brown Rice,2628,15768,7227,8541,04-01-2020
+Malaysia,Brown Rice,1395,8370,3836,4534,07-01-2020
+Malaysia,Brown Rice,905,5430,2489,2941,10-01-2020
+Malaysia,Brown Rice,604,3624,1661,1963,06-01-2020
+Malaysia,Brown Rice,410,2460,1128,1333,10-01-2020
+Malaysia,Brown Rice,1575,9450,4331,5119,02-01-2020
+Malaysia,Brown Rice,500,3000,1375,1625,03-01-2020
+United States,Biryani Basmati,1143,5715,2286,3429,10-01-2020
+United States,Biryani Basmati,1514,7570,3028,4542,02-01-2020
+United States,Biryani Basmati,4493,22465,8986,13479,04-01-2020
+United States,Biryani Basmati,727,3635,1454,2181,06-01-2020
+United States,Biryani Basmati,2905,14525,5810,8715,11-01-2020
+United States,Biryani Basmati,1142,5710,2284,3426,06-01-2020
+United States,Biryani Basmati,1370,6850,2740,4110,07-01-2020
+United States,Biryani Basmati,2918,14590,5836,8754,05-01-2020
+United States,Biryani Basmati,3450,17250,6900,10350,07-01-2020
+United States,Biryani Basmati,1056,5280,2112,3168,09-01-2020
+United States,Biryani Basmati,274,1370,548,822,12-01-2020
+United States,Biryani Basmati,2992,14960,5984,8976,03-01-2020
+United States,Biryani Basmati,2327,11635,4654,6981,05-01-2020
+United States,Biryani Basmati,991,4955,1982,2973,06-01-2020
+United States,Biryani Basmati,602,3010,1204,1806,06-01-2020
+United States,Biryani Basmati,861,4305,1722,2583,10-01-2020
+United States,Biryani Basmati,2663,13315,5326,7989,12-01-2020
+United States,Biryani Basmati,2198,10990,4396,6594,08-01-2020
+United States,Biryani Basmati,1153,5765,2306,3459,10-01-2020
+United States,Biryani Basmati,678,3390,1356,2034,08-01-2020
+United States,Biryani Basmati,3675,18375,7350,11025,04-01-2020
+United States,Biryani Basmati,2797,13985,5594,8391,12-01-2020
+United States,Biryani Basmati,973,4865,1946,2919,03-01-2020
+United States,Biryani Basmati,3495,17475,6990,10485,01-01-2020
+United States,Biryani Basmati,1439,7195,2878,4317,01-01-2020
+United States,Biryani Basmati,2641,13205,5282,7923,02-01-2020
+United States,Biryani Basmati,1767,8835,3534,5301,09-01-2020
+United States,Biryani Basmati,2914,14570,5828,8742,10-01-2020
+United States,Biryani Basmati,1177,5885,2354,3531,11-01-2020
+United States,Biryani Basmati,914,4570,1828,2742,12-01-2020
+United States,Traditional Basmati,615,615,123,492,12-01-2020
+United States,Traditional Basmati,2301,2301,460,1841,04-01-2020
+United States,Traditional Basmati,1142,1142,228,914,06-01-2020
+United States,Traditional Basmati,1566,1566,313,1253,10-01-2020
+United States,Traditional Basmati,3627,3627,725,2902,07-01-2020
+United States,Traditional Basmati,2723,2723,545,2178,11-01-2020
+United States,Traditional Basmati,1282,1282,256,1026,06-01-2020
+United States,Traditional Basmati,2797,2797,559,2238,12-01-2020
+United States,Traditional Basmati,2328,2328,466,1862,09-01-2020
+United States,Traditional Basmati,2313,2313,463,1850,05-01-2020
+United States,Traditional Basmati,677,677,135,542,03-01-2020
+United States,Traditional Basmati,983,983,197,786,01-01-2020
+United States,Traditional Basmati,1298,1298,260,1038,02-01-2020
+United States,Super Basmati,1953,9765,4297,5468,04-01-2020
+United States,Super Basmati,2141,10705,4710,5995,08-01-2020
+United States,Super Basmati,1143,5715,2515,3200,10-01-2020
+United States,Super Basmati,615,3075,1353,1722,12-01-2020
+United States,Super Basmati,1236,6180,2719,3461,11-01-2020
+United States,Super Basmati,1372,6860,3018,3842,12-01-2020
+United States,Super Basmati,1282,6410,2820,3590,06-01-2020
+United States,Super Basmati,2907,14535,6395,8140,06-01-2020
+United States,Super Basmati,2071,10355,4556,5799,09-01-2020
+United States,Super Basmati,579,2895,1274,1621,01-01-2020
+United States,Super Basmati,2993,14965,6585,8380,03-01-2020
+United States,Super Basmati,3200,16000,7040,8960,07-01-2020
+United States,Super Basmati,270,1350,594,756,02-01-2020
+United States,Super Basmati,2844,14220,6257,7963,05-01-2020
+United States,Super Basmati,2914,14570,6411,8159,10-01-2020
+United States,Pulav Basmati,1858,7432,2787,4645,02-01-2020
+United States,Pulav Basmati,2529,10116,3794,6323,07-01-2020
+United States,Pulav Basmati,1947,7788,2921,4868,09-01-2020
+United States,Pulav Basmati,274,1096,411,685,12-01-2020
+United States,Pulav Basmati,991,3964,1487,2478,06-01-2020
+United States,Pulav Basmati,570,2280,855,1425,12-01-2020
+United States,Pulav Basmati,1118,4472,1677,2795,01-01-2020
+United States,Pulav Basmati,2030,8120,3045,5075,11-01-2020
+United States,Pulav Basmati,1761,7044,2642,4403,03-01-2020
+United States,Pulav Basmati,3446,13784,5169,8615,04-01-2020
+United States,Pulav Basmati,2567,10268,3851,6418,06-01-2020
+United States,Pulav Basmati,1743,6972,2615,4358,05-01-2020
+United States,Pulav Basmati,1010,4040,1515,2525,10-01-2020
+United States,Rozana Gold,727,2181,909,1272,06-01-2020
+United States,Rozana Gold,2844,8532,3555,4977,02-01-2020
+United States,Rozana Gold,2663,7989,3329,4660,12-01-2020
+United States,Rozana Gold,570,1710,713,998,12-01-2020
+United States,Rozana Gold,1153,3459,1441,2018,10-01-2020
+United States,Rozana Gold,437,1311,546,765,07-01-2020
+United States,Rozana Gold,1956,5868,2445,3423,01-01-2020
+United States,Rozana Gold,1352,4056,1690,2366,04-01-2020
+United States,Rozana Gold,1867,5601,2334,3267,09-01-2020
+United States,Rozana Gold,2807,8421,3509,4912,08-01-2020
+United States,Rozana Gold,1579,4737,1974,2763,03-01-2020
+United States,Rozana Gold,986,2958,1233,1726,10-01-2020
+United States,Rozana Gold,2387,7161,2984,4177,11-01-2020
+United States,Rozana Gold,2567,7701,3209,4492,06-01-2020
+United States,Rozana Gold,2541,7623,3176,4447,08-01-2020
+United States,Rozana Gold,1010,3030,1263,1768,10-01-2020
+United States,Rozana Gold,1806,5418,2258,3161,05-01-2020
+United States,Brown Rice,2821,16926,7758,9168,08-01-2020
+United States,Brown Rice,1566,9396,4307,5090,10-01-2020
+United States,Brown Rice,1465,8790,4029,4761,03-01-2020
+United States,Brown Rice,555,3330,1526,1804,01-01-2020
+United States,Brown Rice,602,3612,1656,1957,06-01-2020
+United States,Brown Rice,2832,16992,7788,9204,08-01-2020
+United States,Brown Rice,861,5166,2368,2798,10-01-2020
+United States,Brown Rice,2755,16530,7576,8954,02-01-2020
+United States,Brown Rice,547,3282,1504,1778,11-01-2020
+United States,Brown Rice,1372,8232,3773,4459,12-01-2020
+United States,Brown Rice,2907,17442,7994,9448,06-01-2020
+United States,Brown Rice,790,4740,2173,2568,05-01-2020
+United States,Brown Rice,1596,9576,4389,5187,09-01-2020
+United States,Brown Rice,986,5916,2712,3205,10-01-2020
+United States,Brown Rice,606,3636,1667,1970,04-01-2020
+United States,Brown Rice,2460,14760,6765,7995,07-01-2020
+United States,Brown Rice,914,5484,2514,2971,12-01-2020
